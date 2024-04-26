@@ -242,4 +242,5 @@ The `circularLinkedList` class represents a circular linked list data structure.
 - **isExist(const Type &element)**: Checks if a given element exists in the list.
 - **isItemAtEqual(const Type &element, int index)**: Checks if the element at the specified index is equal to a given element.
 
+You will find in **circularLinkedList.h** implementation for circular linked list
 
