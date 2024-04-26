@@ -1,7 +1,6 @@
 # Learn Data Structures and Algorithms with Anime Girls 🌸
 
-![README Anime Girl](Learn-Data-Structures-and-Algorithms-with-Anime-Girls/Anime Girls Images
-/README 01.jpg)
+![README Anime Girl](Anime Girls Images/README 01.jpg)
 
 Welcome to the magical world where data structures, algorithms, and anime girls come together in harmony! 🎀 
 
