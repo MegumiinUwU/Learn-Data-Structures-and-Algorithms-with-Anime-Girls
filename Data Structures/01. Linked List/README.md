@@ -111,7 +111,7 @@ In our whimsical world of anime girls, each node in the double linked list embod
 Sakura ↔ Asuna ↔ Rem ↔ Hinata ↔ Mikasa ↔ Zero Two ↔
 Each anime girl in our double linked list is connected both forwards and backwards
 
-//
+<img src="Double linked list.jpg" alt="Single Linked List" style="width: 300px; height: auto;">
 
 ### dNode Structure
 
@@ -202,7 +202,8 @@ In our enchanting realm of anime girls, the circular linked list adds an extra l
 Sakura -> Asuna -> Rem -> Hinata -> Mikasa -> Sakura
 Each anime girl is connected to the next, but the last one is the one in the beginning also.
 
-//
+<img src="Circular Linked List.jpg" alt="Single Linked List" style="width: 300px; height: auto;">
+
 
 ##### We can use the same nodeType for the single linked list or construct a new one
 
