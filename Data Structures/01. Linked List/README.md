@@ -21,7 +21,7 @@ Sakura -> Asuna -> Rem -> Hinata -> Mikasa ->
 In this example, each girl points to the next girl in the sequence, forming a singly linked list of anime girls.
 
 
-<img src="[Anime Girls Images/Single Linke List.jpg](https://github.com/MegumiinUwU/Learn-Data-Structures-and-Algorithms-with-Anime-Girls/blob/main/Anime%20Girls%20Images/Single%20Linke%20List.jpg?raw=true)" alt="Single Linked List">
+<img src="Single Linke List.jpg" alt="Single Linked List">
 
 
 
