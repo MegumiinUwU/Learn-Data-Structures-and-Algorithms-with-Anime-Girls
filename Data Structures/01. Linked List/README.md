@@ -20,7 +20,7 @@ Each node in the singly linked list represents an anime girl and contains two pa
 Sakura -> Asuna -> Rem -> Hinata -> Mikasa ->
 In this example, each girl points to the next girl in the sequence, forming a singly linked list of anime girls.
 
-<img src="Learn-Data-Structures-and-Algorithms-with-Anime-Girls/Anime Girls Images/Single Linke List.jpg" alt="Single Linked List" style="width: 300px; height: auto;">
+<img src="Anime Girls Images/Single Linke List.jpg" alt="Single Linked List" style="width: 300px; height: auto;">
 
 
 ## Singly Linked List
