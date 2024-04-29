@@ -12,6 +12,10 @@ Now, let's dive into how our queue operates:
 
 4. **Dynamic Line Formation**: Our queue can dynamically grow and shrink as more girls join us or leave to explore other adventures.
 
+<img src="Queue 01.jpg" alt="Single Linked List" style="width: 300px; height: auto;">
+
+
+
 
 ### linkedQueueType Class
 
