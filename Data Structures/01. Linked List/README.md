@@ -244,3 +244,5 @@ The `circularLinkedList` class represents a circular linked list data structure.
 
 You will find in **circularLinkedList.h** implementation for circular linked list
 
+## Now You Should Try and Discover Array Based List **arrayList.h**## Now You Should Try and Discover Array Based List **arrayList.h**
+
