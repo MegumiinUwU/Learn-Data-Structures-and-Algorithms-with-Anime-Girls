@@ -39,3 +39,29 @@ The `linkedStackType` class represents a stack data structure implemented using 
 - **print()**: Prints the elements of the stack.
 
 You can find the implementation details in **linkedlistStack.h** but remember to study linked lists first UwU
+
+### arrayStack Class
+
+The `arrayStack` class represents a stack data structure implemented using an array. It can store elements with a maximum capacity specified by `maxSize`.
+
+#### Private Members
+
+- **maxStackSize**: An integer variable to store the maximum capacity of the stack.
+- **stackTop**: An integer variable to keep track of the top element of the stack.
+- **stack**: A pointer to an array of elements of type `Type` to store the stack elements.
+
+#### Public Member Functions
+
+- **Default Constructor**: Constructs an empty stack with the specified maximum capacity.
+- **Copy Constructor**: Constructs a new stack as a copy of another stack.
+- **Destructor**: Destroys the stack, deallocating memory.
+- **push(const Type& element)**: Pushes an element onto the stack.
+- **pop()**: Pops an element from the stack and returns it.
+- **top()**: Returns the top element of the stack without removing it.
+- **isEmpty()**: Checks if the stack is empty.
+- **stackSize()**: Returns the number of elements in the stack.
+- **clear()**: Clears the stack, removing all elements.
+- **print()**: Prints the elements of the stack.
+- **operator=()**: Overloads the assignment operator to assign one stack to another.
+
+You can find the implementation details in **arrayStack.h**
