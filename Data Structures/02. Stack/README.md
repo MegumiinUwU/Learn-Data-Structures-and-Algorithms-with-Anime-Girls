@@ -13,7 +13,7 @@ Let's see how our stack operates:
 
 4. **Peeking into the Future**: Sometimes, we're just curious about the next girl in line without choosing her. That's where "peeking" comes in handy! We can peek at the top girl on our stack without disturbing the rest of the lineup.
 
-
+<img src="Stack UwU.jpg" alt="Single Linked List" style="width: 300px; height: auto;">
 
 ### linkedStackType Class
 
